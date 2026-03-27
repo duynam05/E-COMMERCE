@@ -8,12 +8,12 @@ Hệ thống cho phép khách hàng đặt hàng trực tuyến và đồng bộ
 
 ## Phạm vi
 Tài liệu tập trung vào chức năng:
-👉 **Product Information Management (PIM)**
+**Product Information Management (PIM)**
 
 ---
 
 ## Tài liệu SRS
-Chi tiết đặc tả hệ thống xem tại: [SRS Document](docs/SRS_PIM.md)
+Chi tiết đặc tả hệ thống xem tại: [SRS Quản lý Sản phẩm (PIM)](docs/SRS_PIM.md)
 
 ---
 

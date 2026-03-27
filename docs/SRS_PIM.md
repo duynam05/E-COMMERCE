@@ -1,7 +1,16 @@
 # Software Requirement Specification (SRS)
 
+---
+
 ## Hệ thống: Kochi Lens E-commerce
+
+---
+
 ## Module: Product Information Management (PIM)
+Mã chức năng: ECOM-PIM-01
+Trạng thái: Draft / Review
+Người soạn thảo: Trịnh Duy Nam
+Vai trò: Technical Writer / Student
 
 ---
 
